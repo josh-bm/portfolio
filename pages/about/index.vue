@@ -93,7 +93,7 @@ const mobiles = [
         <div class="">
           <img
             class="inline-block w-72 h-72 object-cover rounded-full"
-            src="portrait.jpg"
+            src="/portrait.jpg"
             alt=""
           />
           <div class="mt-5 space-y-1">
