@@ -5,7 +5,7 @@ const generals = [
     img_url: "/HTML.svg",
   },
   {
-    name: "CSS, Sass, Tailwind, Bootstrap",
+    name: "CSS",
     img_url: "/CSS3.svg",
   },
   {
@@ -14,7 +14,7 @@ const generals = [
   },
 
   {
-    name: "Node.js, Express.js",
+    name: "Node.js",
     img_url: "Node.svg",
   },
 
@@ -154,84 +154,84 @@ const mobiles = [
         </div>
       </div>
 
-      <div class="mt-10">
-        <h2 class="text-2xl mb-5">Skills</h2>
+      <div class="mt-28">
+        <h2 class="text-3xl mb-10 text-center">Skills</h2>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-20">
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">General</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div
                 v-for="general in generals"
                 :key="general.name"
                 class="space-y-5"
               >
-                <img :src="general.img_url" class="h-20 w-20" alt="" />
+                <img :src="general.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ general.name }}</p>
               </div>
             </div>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">JS Frameworks</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div
                 v-for="framework in frameworks"
                 :key="framework.name"
                 class="space-y-5"
               >
-                <img :src="framework.img_url" class="h-20 w-20" alt="" />
+                <img :src="framework.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ framework.name }}</p>
               </div>
             </div>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">Database</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div
                 v-for="database in databases"
                 :key="database.name"
                 class="space-y-5"
               >
-                <img :src="database.img_url" class="h-20 w-20" alt="" />
+                <img :src="database.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ database.name }}</p>
               </div>
             </div>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">Backend</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div
                 v-for="backend in backends"
                 :key="backend.name"
                 class="space-y-5"
               >
-                <img :src="backend.img_url" class="h-20 w-20" alt="" />
+                <img :src="backend.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ backend.name }}</p>
               </div>
             </div>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">CMS</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div v-for="cms in cmss" :key="cms.name" class="space-y-5">
-                <img :src="cms.img_url" class="h-20 w-20" alt="" />
+                <img :src="cms.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ cms.name }}</p>
               </div>
             </div>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-3 text-center">
             <h2 class="text-xl">Mobile App</h2>
-            <div class="grid grid-cols-2 gap-5">
+            <div class="grid grid-cols-2">
               <div
                 v-for="mobile in mobiles"
                 :key="mobile.name"
                 class="space-y-5"
               >
-                <img :src="mobile.img_url" class="h-20 w-20" alt="" />
+                <img :src="mobile.img_url" class="h-14 w-14 mx-auto" alt="" />
                 <p>{{ mobile.name }}</p>
               </div>
             </div>
