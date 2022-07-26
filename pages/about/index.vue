@@ -146,7 +146,7 @@ const mobiles = [
             easily get along with others in a team setting.
           </p>
           <a
-            href="/Joshua Bacurio Mercado - CV.pdf"
+            href="/joshuabacuriomercadoCV.pdf"
             class="cursor-pointer inline-flex items-center px-4 py-2.5 text-base rounded-lg shadow-lg border border-transparent bg-teal-600 hover:bg-teal-700 focus:outline-none"
             download
             >Download my CV</a
