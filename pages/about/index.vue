@@ -136,8 +136,7 @@ const mobiles = [
         <div class="lg:pl-24 space-y-5 mt-5 lg:mt-0">
           <h2 class="text-2xl">About me</h2>
           <p class="text-lg">
-            My name is Joshua and I'm a Multimedia Designer that is currently
-            finishing a PBA in Web Development. I love coding and creating
+            My name is Joshua and I have a PBA in Web Development and an AP Degree in Multimedia Design. I love coding and creating
             websites.
           </p>
           <p class="text-lg">
