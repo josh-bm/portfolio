@@ -11,7 +11,7 @@ export default {
         {
           title: "C3 Ejendomme",
           description: "Property Management Company based in Ikast.",
-          img_url: "c3.png",
+          img_url: "c3.jpg",
           url: "https://c3ejendomme.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19,7 +19,7 @@ export default {
         {
           title: "Terese Jarset",
           description: "Therapist and Sexologist based in Copenhagen.",
-          img_url: "teresejarset.png",
+          img_url: "teresejarset.jpg",
           url: "https://teresejarset.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -27,7 +27,7 @@ export default {
         {
           title: "BioKube",
           description: "Wastewater treatment company based in Sweden.",
-          img_url: "biokube.png",
+          img_url: "biokube.jpg",
           url: "https://biokube.se/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -35,7 +35,7 @@ export default {
         {
           title: "Smørum Autoland",
           description: "Auto Repair Shop based in Smørum",
-          img_url: "smorum.png",
+          img_url: "smorum.jpg",
           url: "https://smorumautoland.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -43,7 +43,7 @@ export default {
         {
           title: "Aarstidernes have og anlaeg",
           description: "Gardening and tree cutting service based in Sjælland.",
-          img_url: "have.png",
+          img_url: "have.jpg",
           url: "https://aarstiderneshaveanlaeg.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -51,7 +51,7 @@ export default {
         {
           title: "Eachthing",
           description: "Design for a price comparison website focused on sustainability.",
-          img_url: "eachthing.png",
+          img_url: "eachthing.jpg",
           url: "https://github.com/josh-bm/Eachthing",
           tags: [{ name: "Vue" }, { name: "Nuxt" }, { name: "Design" }],
         },
@@ -59,7 +59,7 @@ export default {
         {
           title: "MobileLabel",
           description: "Design for a CMS in a locked PIM system.",
-          img_url: "mobilelabel.png",
+          img_url: "mobilelabel.jpg",
           url: "https://prduct.com/",
           tags: [{ name: "Vue" }, { name: "Design" }],
         },
@@ -74,14 +74,14 @@ export default {
         {
           title: "Trip Event Planner",
           description: "Trip Event Planner App using ASP.NET.",
-          img_url: "trip_planner.png",
+          img_url: "trip_planner.jpg",
           url: "https://github.com/josh-bm/TripEventPlanner",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
         {
           title: "Movies API",
           description: "Simple Movies API using HTML, CSS, and JS.",
-          img_url: "movies_api.png",
+          img_url: "movies_api.jpg",
           url: "https://github.com/josh-bm/Movies-API",
           tags: [{ name: "HTML" }, { name: "CSS" }, { name: "JS" }],
         },
@@ -118,7 +118,7 @@ export default {
         {
           title: "LoL Esports",
           description: "LoL Esports news blog with interviews using Drupal.",
-          img_url: "lolesportsdrupal.png",
+          img_url: "lolesportsdrupal.jpg",
           url: "https://github.com/josh-bm/LoLEsports-Drupal",
           tags: [{ name: "Drupal" }],
         },
