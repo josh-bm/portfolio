@@ -7,6 +7,7 @@ import './assets/css/main.css'
 <template>
   <div class="leading-6">
     <Head>
+      <Title>{{ "Joshua Bacurio Mercado" }}</Title>
       <Script src="https://kit.fontawesome.com/b03f01c4af.js"></Script>
     </Head>
     <NuxtPage />
