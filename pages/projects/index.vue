@@ -59,7 +59,7 @@ export default {
         {
           title: "MobileLabel",
           description: "Design for a CMS in a locked PIM system.",
-          img_url: "mobilelabel.jpg",
+          img_url: "mobilelabel.png",
           url: "https://prduct.com/",
           tags: [{ name: "Vue" }, { name: "Design" }],
         },
@@ -89,7 +89,7 @@ export default {
         {
           title: "Movies, books, and music store",
           description: "Movies, books, and music webshop using ASP.NET.",
-          img_url: "mbmstore.png",
+          img_url: "mbmstore.jpg",
           url: "https://github.com/josh-bm/MbmStore",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
