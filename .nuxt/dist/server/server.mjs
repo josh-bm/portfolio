@@ -2029,7 +2029,7 @@ const __vite_ssr_import_0__ = await __vite_ssr_import__("/assets/css/tailwind.cs
 
 // --------------------
 const $id_f75548e1 = async function (global, module, exports, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-__vite_ssr_exports__.default = "/*! tailwindcss v3.0.24 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}:after,:before{--tw-content:\"\"}html{-webkit-text-size-adjust:100%;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-size:100%;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.absolute{position:absolute}.relative{position:relative}.inset-x-0{left:0;right:0}.top-0{top:0}.top-2{top:.5rem}.right-2{right:.5rem}.-m-3{margin:-.75rem}.-my-2{margin-bottom:-.5rem;margin-top:-.5rem}.mx-auto{margin-left:auto;margin-right:auto}.mb-10{margin-bottom:2.5rem}.-mr-2{margin-right:-.5rem}.mt-6{margin-top:1.5rem}.ml-4{margin-left:1rem}.mr-2{margin-right:.5rem}.mb-2{margin-bottom:.5rem}.mt-1{margin-top:.25rem}.mt-3{margin-top:.75rem}.mt-5{margin-top:1.25rem}.mt-28{margin-top:7rem}.mb-5{margin-bottom:1.25rem}.mb-4{margin-bottom:1rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-6{height:1.5rem}.h-10{height:2.5rem}.h-72{height:18rem}.h-40{height:10rem}.h-80{height:20rem}.h-14{height:3.5rem}.w-6{width:1.5rem}.w-10{width:2.5rem}.w-full{width:100%}.w-72{width:18rem}.w-14{width:3.5rem}.max-w-sm{max-width:24rem}.flex-shrink-0{flex-shrink:0}.origin-top-right{transform-origin:top right}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.scale-100,.scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1}.scale-75{--tw-scale-x:.75;--tw-scale-y:.75}.scale-75,.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cursor-pointer{cursor:pointer}.cursor-help{cursor:help}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-end{align-items:flex-end}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-6{gap:1.5rem}.gap-20{gap:5rem}.gap-10{gap:2.5rem}.space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}.space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.space-x-5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(1.25rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(1.25rem*var(--tw-space-x-reverse))}.space-y-2>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.5rem*var(--tw-space-y-reverse));margin-top:calc(.5rem*(1 - var(--tw-space-y-reverse)))}.space-x-1>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.25rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.25rem*var(--tw-space-x-reverse))}.space-y-1>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.25rem*var(--tw-space-y-reverse));margin-top:calc(.25rem*(1 - var(--tw-space-y-reverse)))}.space-y-5>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(1.25rem*var(--tw-space-y-reverse));margin-top:calc(1.25rem*(1 - var(--tw-space-y-reverse)))}.space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.75rem*var(--tw-space-y-reverse));margin-top:calc(.75rem*(1 - var(--tw-space-y-reverse)))}.divide-y-2>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-bottom-width:calc(2px*var(--tw-divide-y-reverse));border-top-width:calc(2px*(1 - var(--tw-divide-y-reverse)))}.divide-gray-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgb(249 250 251/var(--tw-divide-opacity))}.self-end{align-self:flex-end}.overflow-hidden{overflow:hidden}.rounded-md{border-radius:.375rem}.rounded-lg{border-radius:.5rem}.rounded-full{border-radius:9999px}.rounded-t-lg{border-top-left-radius:.5rem;border-top-right-radius:.5rem}.border{border-width:1px}.border-transparent{border-color:transparent}.border-teal-600{--tw-border-opacity:1;border-color:rgb(13 148 136/var(--tw-border-opacity))}.bg-slate-800{--tw-bg-opacity:1;background-color:rgb(30 41 59/var(--tw-bg-opacity))}.bg-teal-600{--tw-bg-opacity:1;background-color:rgb(13 148 136/var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity))}.bg-teal-700{--tw-bg-opacity:1;background-color:rgb(15 118 110/var(--tw-bg-opacity))}.bg-green-600{--tw-bg-opacity:1;background-color:rgb(22 163 74/var(--tw-bg-opacity))}.bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity))}.bg-transparent{background-color:transparent}.object-cover{-o-object-fit:cover;object-fit:cover}.p-2{padding:.5rem}.p-3{padding:.75rem}.p-5{padding:1.25rem}.py-6{padding-bottom:1.5rem;padding-top:1.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.px-2\\.5{padding-left:.625rem;padding-right:.625rem}.py-4{padding-bottom:1rem;padding-top:1rem}.px-2{padding-left:.5rem;padding-right:.5rem}.py-1{padding-bottom:.25rem;padding-top:.25rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.py-2\\.5{padding-bottom:.625rem;padding-top:.625rem}.px-4{padding-left:1rem;padding-right:1rem}.pt-5{padding-top:1.25rem}.pb-6{padding-bottom:1.5rem}.pt-4{padding-top:1rem}.text-center{text-align:center}.text-4xl{font-size:2.25rem;line-height:2.5rem}.text-base{font-size:1rem;line-height:1.5rem}.text-xs{font-size:.75rem;line-height:1rem}.text-xl{font-size:1.25rem}.text-lg,.text-xl{line-height:1.75rem}.text-lg{font-size:1.125rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-2xl{font-size:1.5rem;line-height:2rem}.font-medium{font-weight:500}.font-semibold{font-weight:600}.font-bold{font-weight:700}.leading-6{line-height:1.5rem}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity))}.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity))}.text-yellow-400{--tw-text-opacity:1;color:rgb(250 204 21/var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity))}.text-cyan-300{--tw-text-opacity:1;color:rgb(103 232 249/var(--tw-text-opacity))}.text-teal-600{--tw-text-opacity:1;color:rgb(13 148 136/var(--tw-text-opacity))}.opacity-0{opacity:0}.opacity-100{opacity:1}.shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:0 0 #0000,0 0 #0000,var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.transition{transition-duration:.15s;transition-property:color,background-color,border-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-200{transition-duration:.2s}.duration-100{transition-duration:.1s}.ease-out{transition-timing-function:cubic-bezier(0,0,.2,1)}.ease-in{transition-timing-function:cubic-bezier(.4,0,1,1)}.hover\\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05}.hover\\:scale-105:hover,.hover\\:scale-90:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.hover\\:scale-90:hover{--tw-scale-x:.9;--tw-scale-y:.9}.hover\\:border-transparent:hover{border-color:transparent}.hover\\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.hover\\:bg-slate-700:hover{--tw-bg-opacity:1;background-color:rgb(51 65 85/var(--tw-bg-opacity))}.hover\\:bg-teal-700:hover{--tw-bg-opacity:1;background-color:rgb(15 118 110/var(--tw-bg-opacity))}.hover\\:text-gray-500:hover{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity))}.hover\\:text-cyan-300:hover{--tw-text-opacity:1;color:rgb(103 232 249/var(--tw-text-opacity))}.hover\\:text-slate-300:hover{--tw-text-opacity:1;color:rgb(203 213 225/var(--tw-text-opacity))}.hover\\:text-teal-600:hover{--tw-text-opacity:1;color:rgb(13 148 136/var(--tw-text-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.hover\\:shadow-xl:hover{--tw-shadow:0 20px 25px -5px rgba(0,0,0,.1),0 8px 10px -6px rgba(0,0,0,.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);box-shadow:0 0 #0000,0 0 #0000,var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),0 0 #0000;box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.focus\\:ring-inset:focus{--tw-ring-inset:inset}.focus\\:ring-indigo-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(99 102 241/var(--tw-ring-opacity))}@media (min-width:768px){.md\\:flex{display:flex}.md\\:hidden{display:none}.md\\:flex-1{flex:1 1 0%}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\\:items-center{align-items:center}.md\\:justify-start{justify-content:flex-start}.md\\:justify-between{justify-content:space-between}.md\\:space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}}@media (min-width:1024px){.lg\\:mt-0{margin-top:0}.lg\\:flex{display:flex}.lg\\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.lg\\:items-center{align-items:center}.lg\\:space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}.lg\\:pt-10{padding-top:2.5rem}.lg\\:pl-24{padding-left:6rem}.lg\\:text-lg{font-size:1.125rem;line-height:1.75rem}.lg\\:text-2xl{font-size:1.5rem;line-height:2rem}.lg\\:text-sm{font-size:.875rem;line-height:1.25rem}}@media (min-width:1280px){.xl\\:w-full{width:100%}.xl\\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.xl\\:text-2xl{font-size:1.5rem;line-height:2rem}.xl\\:text-4xl{font-size:2.25rem;line-height:2.5rem}.xl\\:text-lg{font-size:1.125rem;line-height:1.75rem}}";
+__vite_ssr_exports__.default = "/*! tailwindcss v3.0.24 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}:after,:before{--tw-content:\"\"}html{-webkit-text-size-adjust:100%;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-size:100%;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.absolute{position:absolute}.relative{position:relative}.inset-x-0{left:0;right:0}.top-0{top:0}.top-2{top:.5rem}.right-2{right:.5rem}.-m-3{margin:-.75rem}.-my-2{margin-bottom:-.5rem;margin-top:-.5rem}.mx-auto{margin-left:auto;margin-right:auto}.mb-10{margin-bottom:2.5rem}.-mr-2{margin-right:-.5rem}.mt-6{margin-top:1.5rem}.ml-4{margin-left:1rem}.mr-2{margin-right:.5rem}.mb-2{margin-bottom:.5rem}.mt-1{margin-top:.25rem}.mt-3{margin-top:.75rem}.mt-5{margin-top:1.25rem}.mt-28{margin-top:7rem}.mb-4{margin-bottom:1rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-6{height:1.5rem}.h-10{height:2.5rem}.h-72{height:18rem}.h-40{height:10rem}.h-80{height:20rem}.h-14{height:3.5rem}.w-6{width:1.5rem}.w-10{width:2.5rem}.w-full{width:100%}.w-72{width:18rem}.w-14{width:3.5rem}.max-w-sm{max-width:24rem}.flex-shrink-0{flex-shrink:0}.origin-top-right{transform-origin:top right}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.scale-100,.scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1}.scale-75{--tw-scale-x:.75;--tw-scale-y:.75}.scale-75,.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cursor-pointer{cursor:pointer}.cursor-help{cursor:help}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-end{align-items:flex-end}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-6{gap:1.5rem}.gap-20{gap:5rem}.gap-10{gap:2.5rem}.space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}.space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.space-x-5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(1.25rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(1.25rem*var(--tw-space-x-reverse))}.space-y-2>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.5rem*var(--tw-space-y-reverse));margin-top:calc(.5rem*(1 - var(--tw-space-y-reverse)))}.space-x-1>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.25rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.25rem*var(--tw-space-x-reverse))}.space-y-1>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.25rem*var(--tw-space-y-reverse));margin-top:calc(.25rem*(1 - var(--tw-space-y-reverse)))}.space-y-5>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(1.25rem*var(--tw-space-y-reverse));margin-top:calc(1.25rem*(1 - var(--tw-space-y-reverse)))}.space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.75rem*var(--tw-space-y-reverse));margin-top:calc(.75rem*(1 - var(--tw-space-y-reverse)))}.divide-y-2>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-bottom-width:calc(2px*var(--tw-divide-y-reverse));border-top-width:calc(2px*(1 - var(--tw-divide-y-reverse)))}.divide-gray-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgb(249 250 251/var(--tw-divide-opacity))}.self-end{align-self:flex-end}.overflow-hidden{overflow:hidden}.rounded-md{border-radius:.375rem}.rounded-lg{border-radius:.5rem}.rounded-full{border-radius:9999px}.rounded-t-lg{border-top-left-radius:.5rem;border-top-right-radius:.5rem}.border{border-width:1px}.border-transparent{border-color:transparent}.border-teal-600{--tw-border-opacity:1;border-color:rgb(13 148 136/var(--tw-border-opacity))}.bg-slate-800{--tw-bg-opacity:1;background-color:rgb(30 41 59/var(--tw-bg-opacity))}.bg-teal-600{--tw-bg-opacity:1;background-color:rgb(13 148 136/var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity))}.bg-teal-700{--tw-bg-opacity:1;background-color:rgb(15 118 110/var(--tw-bg-opacity))}.bg-green-600{--tw-bg-opacity:1;background-color:rgb(22 163 74/var(--tw-bg-opacity))}.bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity))}.bg-transparent{background-color:transparent}.object-cover{-o-object-fit:cover;object-fit:cover}.p-2{padding:.5rem}.p-3{padding:.75rem}.p-5{padding:1.25rem}.py-6{padding-bottom:1.5rem;padding-top:1.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.px-2\\.5{padding-left:.625rem;padding-right:.625rem}.py-4{padding-bottom:1rem;padding-top:1rem}.px-2{padding-left:.5rem;padding-right:.5rem}.py-1{padding-bottom:.25rem;padding-top:.25rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.py-2\\.5{padding-bottom:.625rem;padding-top:.625rem}.px-4{padding-left:1rem;padding-right:1rem}.pt-5{padding-top:1.25rem}.pb-6{padding-bottom:1.5rem}.pt-4{padding-top:1rem}.text-center{text-align:center}.text-4xl{font-size:2.25rem;line-height:2.5rem}.text-base{font-size:1rem;line-height:1.5rem}.text-xs{font-size:.75rem;line-height:1rem}.text-xl{font-size:1.25rem}.text-lg,.text-xl{line-height:1.75rem}.text-lg{font-size:1.125rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-2xl{font-size:1.5rem;line-height:2rem}.font-medium{font-weight:500}.font-semibold{font-weight:600}.font-bold{font-weight:700}.leading-6{line-height:1.5rem}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity))}.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity))}.text-yellow-400{--tw-text-opacity:1;color:rgb(250 204 21/var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity))}.text-cyan-300{--tw-text-opacity:1;color:rgb(103 232 249/var(--tw-text-opacity))}.text-teal-600{--tw-text-opacity:1;color:rgb(13 148 136/var(--tw-text-opacity))}.opacity-0{opacity:0}.opacity-100{opacity:1}.shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:0 0 #0000,0 0 #0000,var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.transition{transition-duration:.15s;transition-property:color,background-color,border-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-200{transition-duration:.2s}.duration-100{transition-duration:.1s}.ease-out{transition-timing-function:cubic-bezier(0,0,.2,1)}.ease-in{transition-timing-function:cubic-bezier(.4,0,1,1)}.hover\\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05}.hover\\:scale-105:hover,.hover\\:scale-90:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.hover\\:scale-90:hover{--tw-scale-x:.9;--tw-scale-y:.9}.hover\\:border-transparent:hover{border-color:transparent}.hover\\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.hover\\:bg-slate-700:hover{--tw-bg-opacity:1;background-color:rgb(51 65 85/var(--tw-bg-opacity))}.hover\\:bg-teal-700:hover{--tw-bg-opacity:1;background-color:rgb(15 118 110/var(--tw-bg-opacity))}.hover\\:text-gray-500:hover{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity))}.hover\\:text-cyan-300:hover{--tw-text-opacity:1;color:rgb(103 232 249/var(--tw-text-opacity))}.hover\\:text-slate-300:hover{--tw-text-opacity:1;color:rgb(203 213 225/var(--tw-text-opacity))}.hover\\:text-teal-600:hover{--tw-text-opacity:1;color:rgb(13 148 136/var(--tw-text-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.hover\\:shadow-xl:hover{--tw-shadow:0 20px 25px -5px rgba(0,0,0,.1),0 8px 10px -6px rgba(0,0,0,.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);box-shadow:0 0 #0000,0 0 #0000,var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),0 0 #0000;box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.focus\\:ring-inset:focus{--tw-ring-inset:inset}.focus\\:ring-indigo-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(99 102 241/var(--tw-ring-opacity))}@media (min-width:768px){.md\\:flex{display:flex}.md\\:hidden{display:none}.md\\:flex-1{flex:1 1 0%}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\\:items-center{align-items:center}.md\\:justify-start{justify-content:flex-start}.md\\:justify-between{justify-content:space-between}.md\\:space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}}@media (min-width:1024px){.lg\\:mt-0{margin-top:0}.lg\\:flex{display:flex}.lg\\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.lg\\:items-center{align-items:center}.lg\\:space-x-10>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2.5rem*var(--tw-space-x-reverse))}.lg\\:pt-10{padding-top:2.5rem}.lg\\:pl-24{padding-left:6rem}.lg\\:text-lg{font-size:1.125rem;line-height:1.75rem}.lg\\:text-2xl{font-size:1.5rem;line-height:2rem}.lg\\:text-sm{font-size:.875rem;line-height:1.25rem}}@media (min-width:1280px){.xl\\:w-full{width:100%}.xl\\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.xl\\:text-2xl{font-size:1.5rem;line-height:2rem}.xl\\:text-4xl{font-size:2.25rem;line-height:2.5rem}.xl\\:text-lg{font-size:1.125rem;line-height:1.75rem}}";
 }
 
 
@@ -3324,7 +3324,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
 
   _push(`<div${__vite_ssr_import_2__.ssrRenderAttrs(__vite_ssr_import_1__.mergeProps({ class: "" }, _attrs))}>`)
   _push(__vite_ssr_import_2__.ssrRenderComponent(_component_Navbar, null, null, _parent))
-  _push(`<div class="frame text-white"><div class="lg:flex"><div class=""><img class="inline-block w-72 h-72 object-cover rounded-full" src="/portrait.jpg" alt=""><div class="mt-5 space-y-1"><a href="https://www.linkedin.com/in/joshbmdev/" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-linkedin cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshbmdev</span></a><a href="https://github.com/josh-bm" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-github cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>josh-bm</span></a><a href="mailto:joshuabacuriomercado@gmail.com" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-solid fa-envelope cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshuabacuriomercado@gmail.com</span></a></div></div><div class="lg:pl-24 space-y-5 mt-5 lg:mt-0"><h2 class="text-2xl">About me</h2><p class="text-lg"> My name is Joshua and I&#39;m a Multimedia Designer that is currently finishing a PBA in Web Development. I love coding and creating websites. </p><p class="text-lg"> I am a quick learner and love learning new things when it comes to coding. I can work independently but I am also team oriented and easily get along with others in a team setting. </p><a href="/Joshua Bacurio Mercado - CV.pdf" class="cursor-pointer inline-flex items-center px-4 py-2.5 text-base rounded-lg shadow-lg border border-transparent bg-teal-600 hover:bg-teal-700 focus:outline-none" download>Download my CV</a></div></div><div class="mt-28"><h2 class="text-3xl mb-10 text-center">Skills</h2><div class="grid grid-cols-1 lg:grid-cols-3 gap-20"><div class="space-y-3 text-center"><h2 class="text-xl">General</h2><div class="grid grid-cols-2"><!--[-->`)
+  _push(`<div class="frame text-white"><div class="lg:flex"><div class=""><img class="inline-block w-72 h-72 object-cover rounded-full" src="/portrait.jpg" alt=""><div class="mt-5 space-y-1"><a href="https://www.linkedin.com/in/joshbmdev/" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-linkedin cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshbmdev</span></a><a href="https://github.com/josh-bm" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-github cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>josh-bm</span></a><a href="mailto:joshuabacuriomercado@gmail.com" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-solid fa-envelope cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshuabacuriomercado@gmail.com</span></a></div></div><div class="lg:pl-24 space-y-5 mt-5 lg:mt-0"><h2 class="text-2xl">About me</h2><p class="text-lg"> My name is Joshua and I have a PBA in Web Development and an AP Degree in Multimedia Design. I love coding and creating websites. </p><p class="text-lg"> I am a quick learner and love learning new things when it comes to coding. I can work independently but I am also team oriented and easily get along with others in a team setting. </p><a href="/joshuabacuriomercadoCV.pdf" class="cursor-pointer inline-flex items-center px-4 py-2.5 text-base rounded-lg shadow-lg border border-transparent bg-teal-600 hover:bg-teal-700 focus:outline-none" download>Download my CV</a></div></div><div class="mt-28"><h2 class="text-3xl mb-10 text-center">Skills</h2><div class="grid grid-cols-1 lg:grid-cols-3 gap-20"><div class="space-y-3 text-center"><h2 class="text-xl">General</h2><div class="grid grid-cols-2"><!--[-->`)
   __vite_ssr_import_2__.ssrRenderList($setup.generals, (general) => {
     _push(`<div class="space-y-5"><img${
       __vite_ssr_import_2__.ssrRenderAttr("src", general.img_url)
@@ -19849,7 +19849,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
 
   _push(`<div${__vite_ssr_import_3__.ssrRenderAttrs(_attrs)}>`)
   _push(__vite_ssr_import_3__.ssrRenderComponent(_component_Navbar, null, null, _parent))
-  _push(`<div class="flex items-center justify-center frame lg:pt-10"><div class="w-full lg:flex lg:space-x-10 lg:items-center text-white"><div class="w-full"><figure class="w-full"><img src="/banner.png" class="w-full" alt=""></figure></div><div class="text-center xl:w-full"><p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl">Hi, my name is</p><h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1">Joshua Bacurio Mercado</h2><p class="text-xl lg:text-lg mt-3"><span>Web Developer</span> | <span>Multimedia designer</span></p><div class="flex space-x-5 mt-5 justify-center">`)
+  _push(`<div class="flex items-center justify-center frame lg:pt-10"><div class="w-full lg:flex lg:space-x-10 lg:items-center text-white"><div class="w-full"><figure class="w-full"><img src="/banner.png" class="w-full" alt=""></figure></div><div class="text-center lg:w-full"><p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl"> Hi, my name is </p><h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1"> Joshua Bacurio Mercado </h2><p class="text-xl lg:text-lg mt-3"><span>Web Developer</span> | <span>Multimedia designer</span></p><div class="flex space-x-5 mt-5 justify-center">`)
   _push(__vite_ssr_import_3__.ssrRenderComponent(_component_nuxt_link, { to: "/projects" }, {
     default: __vite_ssr_import_2__.withCtx((_, _push, _parent, _scopeId) => {
       if (_push) {
@@ -19924,7 +19924,7 @@ const _sfc_main = {
         {
           title: "C3 Ejendomme",
           description: "Property Management Company based in Ikast.",
-          img_url: "c3.png",
+          img_url: "c3.jpg",
           url: "https://c3ejendomme.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19932,7 +19932,7 @@ const _sfc_main = {
         {
           title: "Terese Jarset",
           description: "Therapist and Sexologist based in Copenhagen.",
-          img_url: "teresejarset.png",
+          img_url: "teresejarset.jpg",
           url: "https://teresejarset.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19940,7 +19940,7 @@ const _sfc_main = {
         {
           title: "BioKube",
           description: "Wastewater treatment company based in Sweden.",
-          img_url: "biokube.png",
+          img_url: "biokube.jpg",
           url: "https://biokube.se/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19948,7 +19948,7 @@ const _sfc_main = {
         {
           title: "Smørum Autoland",
           description: "Auto Repair Shop based in Smørum",
-          img_url: "smorum.png",
+          img_url: "smorum.jpg",
           url: "https://smorumautoland.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19956,7 +19956,7 @@ const _sfc_main = {
         {
           title: "Aarstidernes have og anlaeg",
           description: "Gardening and tree cutting service based in Sjælland.",
-          img_url: "have.png",
+          img_url: "have.jpg",
           url: "https://aarstiderneshaveanlaeg.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -19964,7 +19964,7 @@ const _sfc_main = {
         {
           title: "Eachthing",
           description: "Design for a price comparison website focused on sustainability.",
-          img_url: "eachthing.png",
+          img_url: "eachthing.jpg",
           url: "https://github.com/josh-bm/Eachthing",
           tags: [{ name: "Vue" }, { name: "Nuxt" }, { name: "Design" }],
         },
@@ -19987,14 +19987,14 @@ const _sfc_main = {
         {
           title: "Trip Event Planner",
           description: "Trip Event Planner App using ASP.NET.",
-          img_url: "trip_planner.png",
+          img_url: "trip_planner.jpg",
           url: "https://github.com/josh-bm/TripEventPlanner",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
         {
           title: "Movies API",
           description: "Simple Movies API using HTML, CSS, and JS.",
-          img_url: "movies_api.png",
+          img_url: "movies_api.jpg",
           url: "https://github.com/josh-bm/Movies-API",
           tags: [{ name: "HTML" }, { name: "CSS" }, { name: "JS" }],
         },
@@ -20002,7 +20002,7 @@ const _sfc_main = {
         {
           title: "Movies, books, and music store",
           description: "Movies, books, and music webshop using ASP.NET.",
-          img_url: "mbmstore.png",
+          img_url: "mbmstore.jpg",
           url: "https://github.com/josh-bm/MbmStore",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
@@ -20031,7 +20031,7 @@ const _sfc_main = {
         {
           title: "LoL Esports",
           description: "LoL Esports news blog with interviews using Drupal.",
-          img_url: "lolesportsdrupal.png",
+          img_url: "lolesportsdrupal.jpg",
           url: "https://github.com/josh-bm/LoLEsports-Drupal",
           tags: [{ name: "Drupal" }],
         },
@@ -20250,7 +20250,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
 
   _push(`<div${__vite_ssr_import_2__.ssrRenderAttrs(__vite_ssr_import_1__.mergeProps({ class: "" }, _attrs))}>`)
   _push(__vite_ssr_import_2__.ssrRenderComponent(_component_Navbar, null, null, _parent))
-  _push(`<div class="frame text-white"><div class="lg:flex"><div class=""><img class="inline-block w-72 h-72 object-cover rounded-full" src="/portrait.jpg" alt=""><div class="mt-5 space-y-1"><a href="https://www.linkedin.com/in/joshbmdev/" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-linkedin cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshbmdev</span></a><a href="https://github.com/josh-bm" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-github cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>josh-bm</span></a><a href="mailto:joshuabacuriomercado@gmail.com" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-solid fa-envelope cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshuabacuriomercado@gmail.com</span></a></div></div><div class="lg:pl-24 space-y-5 mt-5 lg:mt-0"><h2 class="text-2xl">About me</h2><p class="text-lg"> My name is Joshua and I&#39;m a Multimedia Designer that is currently finishing a PBA in Web Development. I love coding and creating websites. </p><p class="text-lg"> I am a quick learner and love learning new things when it comes to coding. I can work independently but I am also team oriented and easily get along with others in a team setting. </p><a href="/Joshua Bacurio Mercado - CV.pdf" class="cursor-pointer inline-flex items-center px-4 py-2.5 text-base rounded-lg shadow-lg border border-transparent bg-teal-600 hover:bg-teal-700 focus:outline-none" download>Download my CV</a></div></div><div class="mt-28"><h2 class="text-3xl mb-10 text-center">Skills</h2><div class="grid grid-cols-1 lg:grid-cols-3 gap-20"><div class="space-y-3 text-center"><h2 class="text-xl">General</h2><div class="grid grid-cols-2"><!--[-->`)
+  _push(`<div class="frame text-white"><div class="lg:flex"><div class=""><img class="inline-block w-72 h-72 object-cover rounded-full" src="/portrait.jpg" alt=""><div class="mt-5 space-y-1"><a href="https://www.linkedin.com/in/joshbmdev/" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-linkedin cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshbmdev</span></a><a href="https://github.com/josh-bm" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-brands fa-github cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>josh-bm</span></a><a href="mailto:joshuabacuriomercado@gmail.com" target="_blank" class="flex space-x-2 items-center"><span><i class="fa-solid fa-envelope cursor-pointer hover:text-slate-300 text-2xl"></i></span><span>joshuabacuriomercado@gmail.com</span></a></div></div><div class="lg:pl-24 space-y-5 mt-5 lg:mt-0"><h2 class="text-2xl">About me</h2><p class="text-lg"> My name is Joshua and I have a PBA in Web Development and an AP Degree in Multimedia Design. I love coding and creating websites. </p><p class="text-lg"> I am a quick learner and love learning new things when it comes to coding. I can work independently but I am also team oriented and easily get along with others in a team setting. </p><a href="/joshuabacuriomercadoCV.pdf" class="cursor-pointer inline-flex items-center px-4 py-2.5 text-base rounded-lg shadow-lg border border-transparent bg-teal-600 hover:bg-teal-700 focus:outline-none" download>Download my CV</a></div></div><div class="mt-28"><h2 class="text-3xl mb-10 text-center">Skills</h2><div class="grid grid-cols-1 lg:grid-cols-3 gap-20"><div class="space-y-3 text-center"><h2 class="text-xl">General</h2><div class="grid grid-cols-2"><!--[-->`)
   __vite_ssr_import_2__.ssrRenderList($setup.generals, (general) => {
     _push(`<div class="space-y-5"><img${
       __vite_ssr_import_2__.ssrRenderAttr("src", general.img_url)
@@ -20344,7 +20344,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
 
   _push(`<div${__vite_ssr_import_3__.ssrRenderAttrs(_attrs)}>`)
   _push(__vite_ssr_import_3__.ssrRenderComponent(_component_Navbar, null, null, _parent))
-  _push(`<div class="flex items-center justify-center frame lg:pt-10"><div class="w-full lg:flex lg:space-x-10 lg:items-center text-white"><div class="w-full"><figure class="w-full"><img src="/banner.png" class="w-full" alt=""></figure></div><div class="text-center xl:w-full"><p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl">Hi, my name is</p><h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1">Joshua Bacurio Mercado</h2><p class="text-xl lg:text-lg mt-3"><span>Web Developer</span> | <span>Multimedia designer</span></p><div class="flex space-x-5 mt-5 justify-center">`)
+  _push(`<div class="flex items-center justify-center frame lg:pt-10"><div class="w-full lg:flex lg:space-x-10 lg:items-center text-white"><div class="w-full"><figure class="w-full"><img src="/banner.png" class="w-full" alt=""></figure></div><div class="text-center lg:w-full"><p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl"> Hi, my name is </p><h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1"> Joshua Bacurio Mercado </h2><p class="text-xl lg:text-lg mt-3"><span>Web Developer</span> | <span>Multimedia designer</span></p><div class="flex space-x-5 mt-5 justify-center">`)
   _push(__vite_ssr_import_3__.ssrRenderComponent(_component_nuxt_link, { to: "/projects" }, {
     default: __vite_ssr_import_2__.withCtx((_, _push, _parent, _scopeId) => {
       if (_push) {
@@ -20417,7 +20417,7 @@ const _sfc_main = {
         {
           title: "C3 Ejendomme",
           description: "Property Management Company based in Ikast.",
-          img_url: "c3.png",
+          img_url: "c3.jpg",
           url: "https://c3ejendomme.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -20425,7 +20425,7 @@ const _sfc_main = {
         {
           title: "Terese Jarset",
           description: "Therapist and Sexologist based in Copenhagen.",
-          img_url: "teresejarset.png",
+          img_url: "teresejarset.jpg",
           url: "https://teresejarset.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -20433,7 +20433,7 @@ const _sfc_main = {
         {
           title: "BioKube",
           description: "Wastewater treatment company based in Sweden.",
-          img_url: "biokube.png",
+          img_url: "biokube.jpg",
           url: "https://biokube.se/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -20441,7 +20441,7 @@ const _sfc_main = {
         {
           title: "Smørum Autoland",
           description: "Auto Repair Shop based in Smørum",
-          img_url: "smorum.png",
+          img_url: "smorum.jpg",
           url: "https://smorumautoland.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -20449,7 +20449,7 @@ const _sfc_main = {
         {
           title: "Aarstidernes have og anlaeg",
           description: "Gardening and tree cutting service based in Sjælland.",
-          img_url: "have.png",
+          img_url: "have.jpg",
           url: "https://aarstiderneshaveanlaeg.dk/",
           tags: [{ name: "WordPress" }, { name: "Design" }],
         },
@@ -20457,7 +20457,7 @@ const _sfc_main = {
         {
           title: "Eachthing",
           description: "Design for a price comparison website focused on sustainability.",
-          img_url: "eachthing.png",
+          img_url: "eachthing.jpg",
           url: "https://github.com/josh-bm/Eachthing",
           tags: [{ name: "Vue" }, { name: "Nuxt" }, { name: "Design" }],
         },
@@ -20480,14 +20480,14 @@ const _sfc_main = {
         {
           title: "Trip Event Planner",
           description: "Trip Event Planner App using ASP.NET.",
-          img_url: "trip_planner.png",
+          img_url: "trip_planner.jpg",
           url: "https://github.com/josh-bm/TripEventPlanner",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
         {
           title: "Movies API",
           description: "Simple Movies API using HTML, CSS, and JS.",
-          img_url: "movies_api.png",
+          img_url: "movies_api.jpg",
           url: "https://github.com/josh-bm/Movies-API",
           tags: [{ name: "HTML" }, { name: "CSS" }, { name: "JS" }],
         },
@@ -20495,7 +20495,7 @@ const _sfc_main = {
         {
           title: "Movies, books, and music store",
           description: "Movies, books, and music webshop using ASP.NET.",
-          img_url: "mbmstore.png",
+          img_url: "mbmstore.jpg",
           url: "https://github.com/josh-bm/MbmStore",
           tags: [{ name: "C#" }, { name: "ASP.NET" }],
         },
@@ -20524,7 +20524,7 @@ const _sfc_main = {
         {
           title: "LoL Esports",
           description: "LoL Esports news blog with interviews using Drupal.",
-          img_url: "lolesportsdrupal.png",
+          img_url: "lolesportsdrupal.jpg",
           url: "https://github.com/josh-bm/LoLEsports-Drupal",
           tags: [{ name: "Drupal" }],
         },
@@ -21385,15 +21385,34 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/serve
 
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
   const _component_Head = __vite_ssr_import_3__.resolveComponent("Head");
+  const _component_Title = __vite_ssr_import_3__.resolveComponent("Title");
   const _component_Script = __vite_ssr_import_3__.resolveComponent("Script");
   const _component_NuxtPage = __vite_ssr_import_3__.resolveComponent("NuxtPage");
   _push(`<div${__vite_ssr_import_4__.ssrRenderAttrs(__vite_ssr_import_3__.mergeProps({ class: "leading-6" }, _attrs))}>`);
   _push(__vite_ssr_import_4__.ssrRenderComponent(_component_Head, null, {
     default: __vite_ssr_import_3__.withCtx((_, _push2, _parent2, _scopeId) => {
       if (_push2) {
+        _push2(__vite_ssr_import_4__.ssrRenderComponent(_component_Title, null, {
+          default: __vite_ssr_import_3__.withCtx((_2, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`${__vite_ssr_import_4__.ssrInterpolate("Joshua Bacurio Mercado")}`);
+            } else {
+              return [
+                __vite_ssr_import_3__.createTextVNode(__vite_ssr_import_3__.toDisplayString("Joshua Bacurio Mercado"))
+              ];
+            }
+          }),
+          _: 1
+        }, _parent2, _scopeId));
         _push2(__vite_ssr_import_4__.ssrRenderComponent(_component_Script, { src: "https://kit.fontawesome.com/b03f01c4af.js" }, null, _parent2, _scopeId));
       } else {
         return [
+          __vite_ssr_import_3__.createVNode(_component_Title, null, {
+            default: __vite_ssr_import_3__.withCtx(() => [
+              __vite_ssr_import_3__.createTextVNode(__vite_ssr_import_3__.toDisplayString("Joshua Bacurio Mercado"))
+            ]),
+            _: 1
+          }),
           __vite_ssr_import_3__.createVNode(_component_Script, { src: "https://kit.fontawesome.com/b03f01c4af.js" })
         ];
       }

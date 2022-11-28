@@ -10,9 +10,13 @@
             <img src="/banner.png" class="w-full" alt="" />
           </figure>
         </div>
-        <div class="text-center xl:w-full">
-          <p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl">Hi, my name is</p>
-          <h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1">Joshua Bacurio Mercado</h2>
+        <div class="text-center lg:w-full">
+          <p class="text-cyan-300 text-xl lg:text-lg xl:text-2xl">
+            Hi, my name is
+          </p>
+          <h2 class="text-3xl lg:text-2xl xl:text-4xl mt-1">
+            Joshua Bacurio Mercado
+          </h2>
           <p class="text-xl lg:text-lg mt-3">
             <span>Web Developer</span> | <span>Multimedia designer</span>
           </p>
